@@ -1,0 +1,52 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg-gradient)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="100" cy="100" r="2" fill="#06b6d4" opacity="0.6"/>
+  <circle cx="1100" cy="530" r="2" fill="#3b82f6" opacity="0.6"/>
+  <circle cx="200" cy="500" r="1.5" fill="#60a5fa" opacity="0.5"/>
+  <circle cx="1000" cy="100" r="1.5" fill="#06b6d4" opacity="0.5"/>
+  
+  <!-- Main logo/icon -->
+  <g transform="translate(150, 250)">
+    <circle cx="65" cy="65" r="50" fill="url(#icon-gradient)"/>
+    <circle cx="65" cy="65" r="30" fill="#60a5fa"/>
+    <path d="M45 45 L85 85 M85 45 L45 85" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="65" cy="45" r="3" fill="#ffffff"/>
+    <circle cx="85" cy="65" r="3" fill="#ffffff"/>
+    <circle cx="65" cy="85" r="3" fill="#ffffff"/>
+    <circle cx="45" cy="65" r="3" fill="#ffffff"/>
+  </g>
+  
+  <!-- Main text -->
+  <text x="300" y="280" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#ffffff">
+    ToolGalaxy
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="300" y="340" font-family="Arial, sans-serif" font-size="36" fill="#94a3b8">
+    Free Online Tools for Everyone
+  </text>
+  
+  <!-- Features -->
+  <text x="300" y="400" font-family="Arial, sans-serif" font-size="24" fill="#cbd5e1">
+    • Image Processing • PDF Tools • Text Utilities • Data Conversion
+  </text>
+  
+  <!-- Call to action -->
+  <text x="300" y="450" font-family="Arial, sans-serif" font-size="20" fill="#06b6d4">
+    No Signup Required • Completely Free
+  </text>
+  
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="icon-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

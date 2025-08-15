@@ -1,0 +1,16 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blue rounded background matching primary color -->
+  <rect width="16" height="16" rx="3" fill="#3b82f6"/>
+  
+  <!-- White rocket icon -->
+  <g transform="translate(8,8)">
+    <!-- Rocket body -->
+    <path d="M-1.5 -3 L1.5 -3 L2 1 L1 3 L-1 3 L-2 1 Z" fill="white"/>
+    <!-- Rocket tip -->
+    <path d="M-0.5 -4 L0.5 -4 L0 -3 Z" fill="white"/>
+    <!-- Rocket flames -->
+    <path d="M-1 3 L-0.5 4.5 L0 3.5 L0.5 4.5 L1 3" fill="white"/>
+    <!-- Rocket windows -->
+    <circle cx="0" cy="-1" r="0.4" fill="#3b82f6"/>
+  </g>
+</svg>

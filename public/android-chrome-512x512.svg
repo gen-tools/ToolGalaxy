@@ -1,0 +1,27 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blue rounded background matching primary color -->
+  <rect width="512" height="512" rx="85" fill="#3b82f6"/>
+  
+  <!-- White rocket icon -->
+  <g transform="translate(256,256)">
+    <!-- Rocket body -->
+    <path d="M-42.7 -85.3 L42.7 -85.3 L56.9 28.4 L28.4 85.3 L-28.4 85.3 L-56.9 28.4 Z" fill="white"/>
+    <!-- Rocket tip -->
+    <path d="M-14.2 -113.8 L14.2 -113.8 L0 -85.3 Z" fill="white"/>
+    <!-- Rocket flames -->
+    <path d="M-28.4 85.3 L-14.2 128 L0 99.6 L14.2 128 L28.4 85.3" fill="white"/>
+    <!-- Rocket windows -->
+    <circle cx="0" cy="-28.4" r="11.4" fill="#3b82f6"/>
+    <circle cx="0" cy="14.2" r="8.5" fill="#3b82f6"/>
+    <circle cx="0" cy="42.7" r="5.7" fill="#3b82f6"/>
+    <!-- Side fins -->
+    <path d="M-56.9 0 L-71.1 28.4 L-56.9 42.7 Z" fill="white"/>
+    <path d="M56.9 0 L71.1 28.4 L56.9 42.7 Z" fill="white"/>
+    <!-- Detail lines -->
+    <line x1="-22.7" y1="-56.9" x2="22.7" y2="-56.9" stroke="#3b82f6" stroke-width="2.8"/>
+    <line x1="-17.1" y1="-14.2" x2="17.1" y2="-14.2" stroke="#3b82f6" stroke-width="2.8"/>
+    <line x1="-11.4" y1="28.4" x2="11.4" y2="28.4" stroke="#3b82f6" stroke-width="2.8"/>
+    <!-- Additional details -->
+    <rect x="-5.7" y="-71.1" width="11.4" height="8.5" rx="2.8" fill="#3b82f6"/>
+  </g>
+</svg>
