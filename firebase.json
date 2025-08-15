@@ -35,3 +35,13 @@
         "source": "**/*.@(xml|txt)",
         "headers": [
           {
+            "key": "Cache-Control",
+            "value": "max-age=86400"
+          }
+        ]
+      }
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false
+  }
+}
