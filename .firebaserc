@@ -1,6 +1,10 @@
 {
   "projects": {
+<<<<<<< HEAD
     "default": "toolgalaxy-3fc2d"
+=======
+    "default": "toolgalaxy-app"
+>>>>>>> c248af9 (Initial commit)
   },
   "targets": {},
   "etags": {}

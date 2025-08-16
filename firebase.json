@@ -1,6 +1,10 @@
 {
   "hosting": {
+<<<<<<< HEAD
     "public": "dist/spa",
+=======
+    "public": "dist",
+>>>>>>> c248af9 (Initial commit)
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -43,5 +47,17 @@
     ],
     "cleanUrls": true,
     "trailingSlash": false
+<<<<<<< HEAD
   }
 }
+=======
+  },
+  "functions": {
+    "source": "functions",
+    "runtime": "nodejs18",
+    "predeploy": [
+      "npm --prefix \"$RESOURCE_DIR\" run build"
+    ]
+  }
+}
+>>>>>>> c248af9 (Initial commit)

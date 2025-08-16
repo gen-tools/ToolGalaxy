@@ -116,6 +116,54 @@ const routes = [
     title: 'Free QR Code Generator - Create QR Codes Online',
     description: 'Generate QR codes for free. Create QR codes for URLs, WiFi, contact info, and more. Download in multiple formats.',
     keywords: 'qr code generator, create qr code, free qr code, qr generator online, wifi qr code'
+<<<<<<< HEAD
+=======
+  },
+  // Missing PDF Tools
+  {
+    path: '/pdf-splitter',
+    title: 'Free PDF Splitter - Split PDF Files Online',
+    description: 'Split PDF documents into separate files by page range or extract specific pages. Free online PDF splitter tool.',
+    keywords: 'pdf splitter, split pdf online, extract pdf pages, pdf page splitter, divide pdf'
+  },
+  {
+    path: '/pdf-to-word',
+    title: 'PDF to Word Converter - Convert PDF to DOC Online',
+    description: 'Convert PDF documents to editable Word files while preserving formatting. Free PDF to Word converter online.',
+    keywords: 'pdf to word, convert pdf to doc, pdf to docx, pdf word converter, editable pdf'
+  },
+  // Missing Text Tools
+  {
+    path: '/text-case-converter',
+    title: 'Text Case Converter - Change Text Case Online',
+    description: 'Convert text between uppercase, lowercase, title case, and sentence case instantly. Free text case converter.',
+    keywords: 'text case converter, uppercase lowercase, title case, sentence case, change text case'
+  },
+  {
+    path: '/ai-text-generator',
+    title: 'AI Text Generator - Create Content with AI',
+    description: 'Generate high-quality content using AI. Create articles, blogs, social media posts, and more with artificial intelligence.',
+    keywords: 'ai text generator, ai content generator, artificial intelligence writing, auto content creation'
+  },
+  {
+    path: '/image-to-text-generator',
+    title: 'Image to Text Generator - OCR Text Extraction',
+    description: 'Extract text from images using advanced OCR technology. Convert photos, screenshots, and documents to editable text.',
+    keywords: 'image to text, ocr online, extract text from image, photo to text, screenshot to text'
+  },
+  // Missing Data Conversion Tools
+  {
+    path: '/xml-to-excel-converter',
+    title: 'XML to Excel Converter - Convert XML to XLSX Online',
+    description: 'Convert XML files to Excel spreadsheets with smart formatting and data preservation. Free XML to Excel converter.',
+    keywords: 'xml to excel converter, convert xml to excel, xml to xlsx, xml excel transformation'
+  },
+  {
+    path: '/excel-to-xml-converter',
+    title: 'Excel to XML Converter - Convert XLSX to XML Online',
+    description: 'Transform Excel spreadsheets to structured XML format with customizable options. Free Excel to XML converter.',
+    keywords: 'excel to xml converter, convert excel to xml, xlsx to xml, excel xml transformation'
+>>>>>>> c248af9 (Initial commit)
   }
 ];
 
